@@ -1,0 +1,4 @@
+name: HubPvP
+version: '${project.version}'
+main: org.inoltrazione.hubpvp.HubPvP
+api-version: '1.17'
